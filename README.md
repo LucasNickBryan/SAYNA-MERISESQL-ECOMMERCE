@@ -1,0 +1,2 @@
+# SAYNA-MERISESQL-ECOMMERCE
+SQL evaluation
